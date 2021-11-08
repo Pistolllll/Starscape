@@ -3,8 +3,8 @@ package.path = ""
 local Links = require("Links")
 local Class = require("Class")
 
-local main_Color = "M"
-local link = {"B", "M", "A", "F", "F"}
+local main_Color = ""
+local link = {"", ""}
 
 function TableComp(t1, t2)
     if #t1 ~= #t2 then return false end
