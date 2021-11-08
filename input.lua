@@ -6,6 +6,10 @@ local Class = require("Class")
 local main_Color = ""
 local link = {"", ""}
 
+for i, v in pairs(link) do
+    link[i] = string.lower(v)
+end
+
 function TableComp(t1, t2)
     if #t1 ~= #t2 then return false end
     local tt1 = {}
@@ -23,11 +27,11 @@ function TableComp(t1, t2)
 end
 
 for i, v in pairs(Class) do
-	if v == main_Color then
+	if string.lower(v) == string.lower(main_Color) then
         local table1 = {}
 		if #Links[i] == #link then
 			for i2, v2 in pairs(Links[i]) do
-				table.insert(table1, Class[v2])
+				table.insert(table1, string.lower(Class[v2]))
                 if TableComp(link, table1) == true then
                     print(i)
                 end
