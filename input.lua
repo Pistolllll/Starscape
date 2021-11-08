@@ -1,4 +1,4 @@
-package.path = "C:\\Users\\cz\\Documents\\lua\\projects\\?.lua"
+package.path = ""
 
 local Links = require("Links")
 local Class = require("Class")
