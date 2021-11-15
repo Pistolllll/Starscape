@@ -4,16 +4,7 @@ This is a script for the roblox game starscape that helps with finding the syste
 ## How To Use
 After you get the files ~~using git clone or zip file~~ all your work is gonna be in the input.lua file you don't have to touch the other 2.
 
-The first thing your gonna do is open th input.lua and put the path to your Class.lua and Links.lua files here:
-![Help](https://user-images.githubusercontent.com/82290573/140800576-dedd25da-062b-4640-b57e-23207f24157e.png)
-
-For example this is what my folder looks like:
-![Help2](https://user-images.githubusercontent.com/82290573/140800936-f9200fc1-3b23-4f64-a8fd-b612780d830e.png)
-i'll copy the path to that folder by double clicking the bar ontop and put it inside the `""` and make sure to insted of putting one backslash, put two and at the end add `\\?.lua` at the end it should look something like this:
-
-![Help3](https://user-images.githubusercontent.com/82290573/140801442-52de2ecc-738e-46f4-a7d4-4cc93acc2f47.png)
-
-After that is done it's time to input the information from the ancient beacon we'll take ths image as an example:
+It's time to input the information from the ancient beacon we'll take ths image as an example:
 ![Example](https://user-images.githubusercontent.com/82290573/140803842-1cfc2650-bd0b-4cb3-add7-66df36c0117f.png)
 
 Now my code instead of using colors it uses letters so instead of color red there's a letter here's a list of all the colors:
