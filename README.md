@@ -15,7 +15,9 @@ Then copy the link of this repo and past it in the github url, then click **Impo
 
 ### How to use the script
 First open input.lua that's where we're gonna do all of our work.
-It's time to input the information from the ancient beacon we'll take ths image as an example:
+
+It's time to input the information from the ancient beacon we'll take this image as an example:
+
 ![Example](https://user-images.githubusercontent.com/82290573/140803842-1cfc2650-bd0b-4cb3-add7-66df36c0117f.png)
 
 Now my code instead of using colors it uses letters so instead of color red there's a letter here's a list of all the colors:
@@ -27,8 +29,8 @@ So the system we want to find is the one with a white circle around it and it's 
 ![help3](https://user-images.githubusercontent.com/82290573/143933922-c5153db3-6d49-4367-a266-996d0147bbbf.png)
 
 if you run out of space in the `link = {"", ""}` just add more by putting a coma `,` first and then `""`.
-Click the green run button to run the code and you should end up with a result, in this case we ended up with 2:
 
+Click the green run button to run the code and you should end up with a result, in this case we ended up with 2:
 ![help4](https://user-images.githubusercontent.com/82290573/143934038-7cd0b6c4-804d-46f8-8c12-f97528a5ea7e.png)
 
 now you just need to search for these 2 in the galaxy map and see which one fits the ancient beacon, this isn't perfect but it is better than searching with your eyes hope you enjoy using this.
