@@ -1,4 +1,4 @@
-package.path = string.sub(string.gsub(debug.getinfo(1).source, "^(.+\\)[^\\]+$", "%1"), 2) .. "?.lua"
+package.path = "?.lua"
 
 local Links = require("Links")
 local Class = require("Class")
