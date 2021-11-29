@@ -7,7 +7,7 @@ local main_Color = ""
 local link = {"", ""}
 
 for i, v in pairs(link) do
-  link[i] = string.lower(v)
+	link[i] = string.lower(v)
 end
 
 function TableComp(t1, t2)
