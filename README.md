@@ -26,7 +26,8 @@ So the system we want to find is the one with a white circle around it and it's 
 
 ![help3](https://user-images.githubusercontent.com/82290573/143933922-c5153db3-6d49-4367-a266-996d0147bbbf.png)
 
-if you run out of space in the `link = {"", ""}` just add more by putting a coma `,` first and then `""` and you should end up with a result, in this case we ended up with 2:
+if you run out of space in the `link = {"", ""}` just add more by putting a coma `,` first and then `""`.
+Click the green run button to run the code and you should end up with a result, in this case we ended up with 2:
 
 ![help4](https://user-images.githubusercontent.com/82290573/143934038-7cd0b6c4-804d-46f8-8c12-f97528a5ea7e.png)
 
