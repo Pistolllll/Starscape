@@ -1,2 +1,3 @@
 language = "lua"
 run = "lua input.lua"
+entrypoint = "input.lua"
